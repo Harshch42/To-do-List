@@ -6,7 +6,7 @@ A simple to-do list website that helps you keep track of tasks and stay organize
 
 You can check out a live demo of the to-do list website [here](#).
 
-![To-Do List Website Screenshot](img_web/img1.png)
+![To-Do List Website Screenshot](web_img/img1.png)
 
 ## Features
 
